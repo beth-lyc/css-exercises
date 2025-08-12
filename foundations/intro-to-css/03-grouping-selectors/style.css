@@ -1,13 +1,14 @@
-.font-size-fam{
+.CM,
+.NCM {
     font-size: 28px;
     font-family: Helvetica, "Times New Romans", sans-serif;
 }
 
-#CM{
-color: white;
-background-color: black;
+.CM {
+    color: white;
+    background-color: black;
 }
 
-#NCM{
+.NCM {
     background-color: yellow;
 }
